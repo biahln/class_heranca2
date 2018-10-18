@@ -12,3 +12,6 @@ print (p1.get_idade())
 
 #Objeto em versão texto
 print(p1)
+
+#Objeto funcionario
+f1 = Funcionario ('José', '456', 40,)
